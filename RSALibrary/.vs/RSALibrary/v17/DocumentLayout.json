@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\RSALibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E621B569-0C70-4866-ADE7-1F82E804E9B9}|RSATestApp\\RSATestApp.vcxproj|D:\\RSALibrary\\RSATestApp\\RSATestApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E621B569-0C70-4866-ADE7-1F82E804E9B9}|RSATestApp\\RSATestApp.vcxproj|solutionrelative:RSATestApp\\RSATestApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DDA702-D5EA-40F7-B886-323541C6B4FC}|RSALibrary\\RSALibrary.vcxproj|D:\\RSALibrary\\RSALibrary\\rsa_lib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1DDA702-D5EA-40F7-B886-323541C6B4FC}|RSALibrary\\RSALibrary.vcxproj|solutionrelative:RSALibrary\\rsa_lib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DDA702-D5EA-40F7-B886-323541C6B4FC}|RSALibrary\\RSALibrary.vcxproj|D:\\RSALibrary\\RSALibrary\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1DDA702-D5EA-40F7-B886-323541C6B4FC}|RSALibrary\\RSALibrary.vcxproj|solutionrelative:RSALibrary\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DDA702-D5EA-40F7-B886-323541C6B4FC}|RSALibrary\\RSALibrary.vcxproj|D:\\RSALibrary\\RSALibrary\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1DDA702-D5EA-40F7-B886-323541C6B4FC}|RSALibrary\\RSALibrary.vcxproj|solutionrelative:RSALibrary\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DDA702-D5EA-40F7-B886-323541C6B4FC}|RSALibrary\\RSALibrary.vcxproj|D:\\RSALibrary\\RSALibrary\\rsa_lib.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1DDA702-D5EA-40F7-B886-323541C6B4FC}|RSALibrary\\RSALibrary.vcxproj|solutionrelative:RSALibrary\\rsa_lib.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DDA702-D5EA-40F7-B886-323541C6B4FC}|RSALibrary\\RSALibrary.vcxproj|D:\\RSALibrary\\RSALibrary\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1DDA702-D5EA-40F7-B886-323541C6B4FC}|RSALibrary\\RSALibrary.vcxproj|solutionrelative:RSALibrary\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RSATestApp.cpp",
+              "DocumentMoniker": "D:\\RSALibrary\\RSATestApp\\RSATestApp.cpp",
+              "RelativeDocumentMoniker": "RSATestApp\\RSATestApp.cpp",
+              "ToolTip": "D:\\RSALibrary\\RSATestApp\\RSATestApp.cpp",
+              "RelativeToolTip": "RSATestApp\\RSATestApp.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-09T18:08:02.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "pch.h",
+              "DocumentMoniker": "D:\\RSALibrary\\RSALibrary\\pch.h",
+              "RelativeDocumentMoniker": "RSALibrary\\pch.h",
+              "ToolTip": "D:\\RSALibrary\\RSALibrary\\pch.h",
+              "RelativeToolTip": "RSALibrary\\pch.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-09T17:57:15.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\RSALibrary\\RSALibrary\\main.cpp",
+              "RelativeDocumentMoniker": "RSALibrary\\main.cpp",
+              "ToolTip": "D:\\RSALibrary\\RSALibrary\\main.cpp",
+              "RelativeToolTip": "RSALibrary\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-09T17:56:41.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "rsa_lib.cpp",
+              "DocumentMoniker": "D:\\RSALibrary\\RSALibrary\\rsa_lib.cpp",
+              "RelativeDocumentMoniker": "RSALibrary\\rsa_lib.cpp",
+              "ToolTip": "D:\\RSALibrary\\RSALibrary\\rsa_lib.cpp",
+              "RelativeToolTip": "RSALibrary\\rsa_lib.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-09T17:54:09.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "rsa_lib.h",
+              "DocumentMoniker": "D:\\RSALibrary\\RSALibrary\\rsa_lib.h",
+              "RelativeDocumentMoniker": "RSALibrary\\rsa_lib.h",
+              "ToolTip": "D:\\RSALibrary\\RSALibrary\\rsa_lib.h",
+              "RelativeToolTip": "RSALibrary\\rsa_lib.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-09T17:53:50.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dllmain.cpp",
+              "DocumentMoniker": "D:\\RSALibrary\\RSALibrary\\dllmain.cpp",
+              "RelativeDocumentMoniker": "RSALibrary\\dllmain.cpp",
+              "ToolTip": "D:\\RSALibrary\\RSALibrary\\dllmain.cpp",
+              "RelativeToolTip": "RSALibrary\\dllmain.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-09T17:53:17.809Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

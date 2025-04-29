@@ -1,10 +1,10 @@
 #include <iostream>
-#include "D:/RSALibrary/RSALibrary/rsa_lib.h"  // Шлях до вашого заголовочного файлу DLL
-#pragma comment(lib, "D:\RSALibrary\x64\Debug\RSALibrary.lib")
+#include "../RSALibrary/rsa_lib.h"  // Шлях до вашого заголовочного файлу DLL
+#pragma comment(lib, "../x64/Debug/RSALibrary.lib")
 
 int main() {
     RSAKey publicKey, privateKey;
-    generateKeys(&publicKey, &privateKey, 61, 53);
+    generateKeys(&publicKey, &privateKey, 611, 531);
 
     long long encrypted = encrypt(123, publicKey);
     std::cout << "Encrypted: " << encrypted << std::endl;
@@ -14,5 +14,3 @@ int main() {
 
     return 0;
 }
-
-//

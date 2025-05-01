@@ -47,7 +47,7 @@ RSA_API void generateKeys(RSAKey* publicKey, RSAKey* privateKey, long long p, lo
     long long phi = (p - 1) * (q - 1);
 
     // Вибираємо e (відкритий ключ)
-    long long e = 65537; // Поширене значення для e
+    long long e = 17; // Поширене значення для e
     while (gcd(e, phi) != 1) {
         e++;
     }

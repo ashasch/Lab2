@@ -17,8 +17,8 @@ typedef long long (*encrypt)(long long, RSAKey);
 typedef long long (*decrypt)(long long, RSAKey);
 
 int main() {
-    SetConsoleOutputCP(CP_WINUNICODE);
-    SetConsoleCP(CP_WINUNICODE);
+    SetConsoleOutputCP(CP_UTF8);
+    SetConsoleCP(CP_UTF8);
 
 
     HINSTANCE hLib = LoadLibrary(L"RSALibrary.dll");

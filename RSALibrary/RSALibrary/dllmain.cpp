@@ -1,11 +1,13 @@
 // dllmain.cpp : Defines the entry point for the DLL application.
 #include "pch.h"
+#include <iostream>
 
 BOOL APIENTRY DllMain( HMODULE hModule,
                        DWORD  ul_reason_for_call,
                        LPVOID lpReserved
                      )
 {
+    std::cout << "Getting lpReserved value for RSA lib: " << lpReserved << std::endl;
     switch (ul_reason_for_call)
     {
     case DLL_PROCESS_ATTACH:

@@ -53,12 +53,12 @@ int main() {
         }
     }
     if (langChoice == '0') {
+        std::locale::global(std::locale("uk_UA.utf8"));
         hLangLib = LoadLibrary(L"ResLibUkr.dll");
         if (!hLangLib) {
             std::cerr << "Cannot load DLL\n";
             return 1;
         }
-        std::locale::global(std::locale("uk_UA.utf8"));
     }
 
     for (size_t i = 0; i < 6; i++)
